@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889967072631",
+    "project_id": "my-notes-fahmed",
+    "storage_bucket": "my-notes-fahmed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889967072631:android:1705611ea134d13f477d72",
+        "android_client_info": {
+          "package_name": "com.farman.mynotesfahmed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdB4VwzOa9wRJ4fhMQ4T55vVcSwMqJVWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
